@@ -1,7 +1,8 @@
-Para execuÁ„o do site, deve se clicar em ''index'', logo executar· o Site, 
- a navegaÁ„o pelo site È simples e de f·cil interaÁ„o, na programaÁ„o do site foi usado 
+Para execu√ß√£o do site, deve se clicar em ''index'', logo executar√° o Site, 
+ a navega√ß√£o pelo site √© simples e de f√°cil intera√ß√£o, na programa√ß√£o do site foi usado 
 ''HTML5, CSS3, BootsTrap4, JQuery e javaScript.''
-No site È possivel encontrar noticias que envolvem o mundo geek, entre elas jogos, 
-tecnologias e finanÁas, descubra mais e acesse:
+No site √© possivel encontrar noticias que envolvem o mundo geek, entre elas jogos, 
+tecnologias e finan√ßas, √© possivel abrir o site tanto em pcs, notebooks quanto em dispositivo movel,
+foi adaptado para se adequar a tela do celular, sem que atrapalhe a visibilidade do usu√°rio descubra mais e acesse:
 http://tecblog.000webhostapp.com/jogos.html#conteudo
 
